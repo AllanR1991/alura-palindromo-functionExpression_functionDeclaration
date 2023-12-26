@@ -9,6 +9,7 @@ Este projeto verifica se a palava digita é um palindromo.
 Um palíndromo é uma palavra ou frase que pode ser lida da esquerda para a direita ou da direita para a esquerda, sem alterar o seu significado. Por exemplo, “a cara rajada da jararaca” é um palíndromo. Existem palíndromos de palavras, frases, nomes e até números.
 
 
+![image](https://github.com/AllanR1991/alura-palindromo-functionExpression_functionDeclaration/assets/22855740/b665d0af-b5e5-4d62-93dd-d9d4113e0d80)
 
 
 ## Recursos utilizados durante o desenvolvimento:
