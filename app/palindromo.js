@@ -9,9 +9,7 @@ elementoFormulario.addEventListener('submit',
     }
 )
 
-elementoBotao.addEventListener('click',
-    essaPalavraEUmPalindromo
-)
+
 
 
 /**
@@ -38,7 +36,9 @@ const essaPalavraEUmPalindromo = function () {
 }
 
 
-
+elementoBotao.addEventListener('click',
+    essaPalavraEUmPalindromo
+)
 
 
 /**
