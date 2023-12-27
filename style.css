@@ -1,0 +1,60 @@
+*{
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+
+input{
+    padding: 5px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 2px rgba(128, 128, 128,0.3);
+    background: rgba(255, 255, 255, 0.504);
+    border: none;
+    color: white;
+    cursor: pointer;
+}   
+
+input::placeholder{
+    color: white;
+    background: none;
+}
+
+p,span,label{
+    color: white;
+}
+
+button{
+    border-radius: 10px;
+    border: none;
+    padding: 5px 20px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    
+}
+
+.exemplo{
+    color: orange;
+}
+
+button:hover{
+    background-color: chocolate;
+    transform: scale(110%);
+}
